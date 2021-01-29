@@ -1,0 +1,275 @@
+﻿{
+  "data": [
+    {
+      "functionalOrder ": 1,
+      "tag": "<b>",
+      "richtext": [
+        "【太字】単語等を<b>強調</b>で出来ます。",
+        "<noparse><b></noparse>は <b>Bold</b> の略です。"
+      ]
+    },
+    {
+      "functionalOrder ": 1,
+      "tag": "<i>",
+      "richtext": [
+        "【斜体】引用等を <i>強調</i> 出来ます。",
+        "<noparse><i></noparse>は <i>Italic</i> の略です。"
+      ]
+    },
+    {
+      "functionalOrder ": 1,
+      "tag": "<s>",
+      "richtext": [
+        "【打ち消し線】修正を <s>強調</s> 出来ます。",
+        "<noparse><s></noparse>は <s>Strike through</s> の略です。"
+      ]
+    },
+    {
+      "functionalOrder ": 1,
+      "tag": "<u>",
+      "richtext": [
+        "【下線】単語等を <u>強調</u> で出来ます。",
+        "<noparse><u></noparse>は <u>Under line</u> の略です。"
+      ]
+    },
+    {
+      "functionalOrder ": 4,
+      "tag": "<align>",
+      "richtext": [
+        "<align=left>【整列】行の整列を変更します。<size=40><line-height=33>",
+        "<align=right>右寄せ",
+        "<align=center>中央寄せ",
+        "<align=flush>均等割り付け"
+      ]
+    },
+    {
+      "functionalOrder ": 2,
+      "tag": "<color>",
+      "richtext": [
+        "【カラー】文字の色を変更します。",
+        "<#f00>色</color> の <color=green>変え方</color> も <#0000ff3f>様々</color> あります。"
+      ]
+    },
+    {
+      "functionalOrder ": 2,
+      "tag": "<cspace>",
+      "richtext": [
+        "【文字幅】文字幅を増減します。<size=50><line-height=50>",
+        "<cspace=1em>< cspace=1em >",
+        "<cspace=-5.0px>< cspace= -5.0px ></cspace>"
+      ]
+    },
+    {
+      "functionalOrder ": 5,
+      "tag": "<mspace>",
+      "richtext": [
+        "【文字幅】文字幅を固定します。<size=50><line-height=50>",
+        "<noparse><cspace></noparse><indent=24%><cspace=0.715em>ilililxyzxyzxyz</cspace></indent>",
+        "<noparse><mspace></noparse><indent=22.3%><mspace=1em>ilililxyzxyzxyz</mspace></indent>"
+      ]
+    },
+    {
+      "functionalOrder ": 2,
+      "tag": "<font>",
+      "richtext": [
+        "【フォント】フォントを変更します。",
+        "途中で <font=\"HonobonoPop-Regular SDF\">カワイイ</font> や <font=\"GreatVibes-Regular SDF\">Cool</font> に出来ます。"
+      ]
+    },
+    {
+      "functionalOrder ": 2,
+      "tag": "<material>",
+      "richtext": [
+        "【マテリアル】マテリアルを変更します",
+        "<#fff><material=\"NotoSansJP-Regular SDF Outline\">アウトライン</material></color>や<#fff><material=\"NotoSansJP-Regular SDF Bevel\">ベベル</material></color>を予め用意します"
+      ]
+    },
+    {
+      "functionalOrder ": 3,
+      "tag": "<indent>",
+      "richtext": [
+        "【インデント】行頭の位置を調整します<size=50><line-height=50>",
+        "<indent=40px>indent=40px<indent=35%>indent=35%折り返しされる行頭位置も変更されます。"
+      ]
+    },
+    {
+      "functionalOrder ": 3,
+      "tag": "<line-indent>",
+      "richtext": [
+        "【インデント】段落の位置を調整します<size=40><line-height=40>",
+        "<line-height=70%><line-indent=5em>段落等の文章の初めにスペースを空ける時に使います。段落が変わるまではいつも通りです。",
+        "改行のたびにインデントされます。"
+      ]
+    },
+    {
+      "functionalOrder ": 3,
+      "tag": "<line-height>",
+      "richtext": [
+        "【位置調整】行のY軸位置を調整します<size=40><line-height=65%>",
+        "<line-height=50%>改行の高さを設定の50%で文字を表示しています。",
+        "改行の高さを設定の50%で文字を表示しています。<line-height=70%>",
+        "改行の高さを設定の70%で文字を表示しています。"
+      ]
+    },
+    {
+      "functionalOrder ": 99,
+      "tag": "<link>",
+      "richtext": [
+        "【リンク】リンク<link=【リンクとは】\n「軽く叩く」という意味の英語><#ffd000>タップ</color></link>をすることで、",
+        "<link=【実装について】\n詳しくはTextMeshProEventHandler.csを\nご参照ください><#ffd000>イベント</color></link>を受け取ることが出来ます。"
+      ]
+    },
+    {
+      "functionalOrder ": 2,
+      "tag": "<lowercase>",
+      "richtext": [
+        "【ケース】小文字に変更",
+        "<lowercase>TextMeshPro is Amazing.</lowercase></indent>"
+      ]
+    },
+    {
+      "functionalOrder ": 2,
+      "tag": "<uppercase>",
+      "richtext": [
+        "【ケース】大文字に変更",
+        "<uppercase>TextMeshPro is Amazing.</uppercase></indent>"
+      ]
+    },
+    {
+      "functionalOrder ": 2,
+      "tag": "<smallcaps>",
+      "richtext": [
+        "【ケース】スモールキャピタルに変更",
+        "<smallcaps>TextMeshPro is Amazing.</smallcaps>"
+      ]
+    },
+    {
+      "functionalOrder ": 4,
+      "tag": "<margin>",
+      "richtext": [
+        "【範囲】余白を調整できます。<size=50><line-height=50>",
+        "<margin-left=2em><margin-right=2em>左右に余白を入れることで、開始位置と折り返し位置が調整されます。</margin>"
+      ]
+    },
+    {
+      "functionalOrder ": 99,
+      "tag": "<mark>",
+      "richtext": [
+        "【マーク】単語を<mark=#ffff007f>ハイライト</mark>表示",
+        "色は<mark=#00afff7f>自由</mark>に変えることが出来ます。"
+      ]
+    },
+    {
+      "functionalOrder ": 99,
+      "tag": "<noparse>",
+      "richtext": [
+        "【リッチテキスト】無効にします。",
+        "<noparse><b></noparse>等を表記したい場合に利用します。"
+      ]
+    },
+    {
+      "functionalOrder ": 99,
+      "tag": "<nobr>",
+      "richtext": [
+        "【改行】途中の改行を防ぐ。<size=50><line-height=50>",
+        "長い単語中の改行を防ぎます。例えば<nobr>オーストラリア</nobr>等です。"
+      ]
+    },
+    {
+      "functionalOrder ": 6,
+      "tag": "<pos>",
+      "richtext": [
+        "【位置調整】X軸移動します。",
+        "<pos=10%>同じ行で<pos=8em>好きな位置から"
+      ]
+    },
+    {
+      "functionalOrder ": 6,
+      "tag": "<rotate>",
+      "richtext": [
+        "【表示】各文字を<rotate=15>回転</rotate>します。",
+        "あいう<rotate=45>えお <rotate=90>かきく<rotate=135>けこ さ<rotate=180>しす</rotate>せそ"
+      ]
+    },
+    {
+      "functionalOrder ": 6,
+      "tag": "<size>",
+      "richtext": [
+        "【表示】フォントサイズを変更します。",
+        "<size=60><noparse><size=60></noparse><size=80%><noparse><size=80%></noparse><size=40px><noparse><size=40px></noparse><size=0.5em><noparse><size=0.5em></noparse>"
+      ]
+    },
+    {
+      "functionalOrder ": 99,
+      "tag": "<space>",
+      "richtext": [
+        "【空白】空白を挿入します。",
+        "好きな幅の<space=1em>空白<space=1em>を挿入できます。"
+      ]
+    },
+    {
+      "functionalOrder ": 99,
+      "tag": "<sprite>",
+      "richtext": [
+        "【絵文字】スプライトを挿入します。",
+        "予め準備した<sprite=2>を表示できます<sprite=43>"
+      ]
+    },
+    {
+      "functionalOrder ": 99,
+      "tag": "<style>",
+      "richtext": [
+        "【表示】スタイルシートから適応。<line-height=60><align=center>",
+        "<style=H3>< style=H3 ></style><line-height=50>",
+        "<size=45><noparse><style=H3></noparse>"
+      ]
+    },
+    {
+      "functionalOrder ": 99,
+      "tag": "<sup>",
+      "richtext": [
+        "【位置調整】上付き文字を表示。",
+        "x<sup>2</sup>+y<sup>10</sup>　1<sup>st</sup>　注釈<sup>a1</sup>"
+      ]
+    },
+    {
+      "functionalOrder ": 99,
+      "tag": "<sub>",
+      "richtext": [
+        "【位置調整】下付き文字を表示。",
+        "log<sub>x</sub>x　CH<sub>3</sub>CHO"
+      ]
+    },
+    {
+      "functionalOrder ": 4,
+      "tag": "<voffset>",
+      "richtext": [
+        "【位置調整】Y軸を差分移動します。<line-height=100>",
+        "行の<voffset=0.25em>高さ</voffset>を<voffset=0.5em>基準</voffset>に垂直方向に<voffset=-0.25em>移動</voffset>する。"
+      ]
+    },
+    {
+      "functionalOrder ": 4,
+      "tag": "<width>",
+      "richtext": [
+        "【範囲】エリア幅を変更します。<size=35><line-height=35>",
+        "<width=50%>テキストエリアの横幅を調整できます。一行の文章でも、改行位置が半分で折り返します。</width>",
+        "<line-height=-110%>",
+        "</size><pos=50%>|←ここで折り返す"
+      ]
+    },
+    {
+      "functionalOrder ": 99,
+      "tag": "<page>",
+      "isPage": true,
+      "richtext": [
+        "【ページ】ページに沿った表示。",
+        "<align=left>1ページ目",
+        "</align><page>【ページ】ページに沿った表示。",
+        "<align=center>2ページ目",
+        "</align><page>【ページ】ページに沿った表示。",
+        "<align=right>3ページ目"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+﻿{
+  "data": [
+    {
+      "prefab": "Pages/Inspector/TextDescription",
+      "iconTexture": "Icons/Inspector.Text",
+      "iconSprite": "Inspector.Text",
+      "text": "Text & RTL",
+      "textJapanese": "テキスト & 右書き"
+    },
+    {
+      "prefab": "Pages/Inspector/FontDescription",
+      "iconTexture": "Icons/Inspector.Font",
+      "iconSprite": "Inspector.Font",
+      "text": "Font & Material Preset",
+      "textJapanese": "フォント & マテリアル"
+    },
+    {
+      "prefab": "Pages/Inspector/ColorDescription",
+      "iconTexture": "Icons/Inspector.Color",
+      "iconSprite": "Inspector.Color",
+      "text": "Color & Color Gradient",
+      "textJapanese": "カラー & グラデーション"
+    },
+    {
+      "prefab": "Pages/Inspector/FontSizeDescription",
+      "iconTexture": "Icons/Inspector.FontSize",
+      "iconSprite": "Inspector.FontSize",
+      "text": "FontSize",
+      "textJapanese": "フォントサイズ"
+    },
+    {
+      "prefab": "Pages/Inspector/SpacingDescription",
+      "iconTexture": "Icons/Inspector.Spacing",
+      "iconSprite": "Inspector.Spacing",
+      "text": "Spacing",
+      "textJapanese": "スペーシング（空間）"
+    },
+    {
+      "prefab": "Pages/Inspector/AlignmentDescription",
+      "iconTexture": "Icons/Inspector.Alignment",
+      "iconSprite": "Inspector.Alignment",
+      "text": "Alignment",
+      "textJapanese": "テキスト揃え"
+    },
+    {
+      "prefab": "Pages/Inspector/WrappingDescription",
+      "iconTexture": "Icons/Inspector.Wrapping",
+      "iconSprite": "Inspector.Wrapping",
+      "text": "Wrapping",
+      "textJapanese": "ラップ（折り返し）"
+    },
+    {
+      "prefab": "Pages/Inspector/UVMappingDescription",
+      "iconTexture": "Icons/Inspector.UVMapping",
+      "iconSprite": "Inspector.UVMapping",
+      "text": "UV Mapping",
+      "textJapanese": "UV マッピング"
+    },
+    {
+      "prefab": "Pages/Inspector/KerningDescription",
+      "iconTexture": "Icons/Inspector.Kerning",
+      "iconSprite": "Inspector.Kerning",
+      "text": "Kerning",
+      "textJapanese": "カーニング"
+    },
+    {
+      "prefab": "Pages/Inspector/PaddingDescription",
+      "iconTexture": "Icons/Inspector.Padding",
+      "iconSprite": "Inspector.Padding",
+      "text": "Padding",
+      "textJapanese": "パディング（余白）"
+    },
+    {
+      "prefab": "Pages/Inspector/GeometrySortingDescription",
+      "iconTexture": "Icons/Inspector.GeometrySorting",
+      "iconSprite": "Inspector.GeometrySorting",
+      "text": "Geometry Sorting",
+      "textJapanese": "ジオメトリ並び順"
+    },
+    {
+      "prefab": "Pages/Inspector/RichTextDescription",
+      "iconTexture": "Icons/Inspector.RichText",
+      "iconSprite": "Inspector.RichText",
+      "text": "RichText",
+      "textJapanese": "リッチテキスト"
+    },
+    {
+      "prefab": "Pages/Inspector/RaycastDescription",
+      "iconTexture": "Icons/Inspector.Raycast",
+      "iconSprite": "Inspector.Raycast",
+      "text": "Raycast Target",
+      "textJapanese": "レイキャストターゲット"
+    },
+    {
+      "prefab": "Pages/Inspector/EscapeDescription",
+      "iconTexture": "Icons/Inspector.Espace",
+      "iconSprite": "Inspector.Espace",
+      "text": "Parse Espace",
+      "textJapanese": "エスケープ文字"
+    },
+    {
+      "prefab": "Pages/Inspector/DescenderDescription",
+      "iconTexture": "Icons/Inspector.Descender",
+      "iconSprite": "Inspector.Descender",
+      "text": "Visible Descender",
+      "textJapanese": "出現順"
+    },
+    {
+      "prefab": "Pages/Inspector/SpriteDescription",
+      "iconTexture": "Icons/Inspector.Sprite",
+      "iconSprite": "Inspector.Sprite",
+      "text": "Sprite",
+      "textJapanese": "スプライト（絵文字）"
+    },
+    {
+      "prefab": "Pages/Inspector/OrthographicDescription",
+      "iconTexture": "Icons/Inspector.Orthographic",
+      "iconSprite": "Inspector.Orthographic",
+      "text": "Orthographic",
+      "textJapanese": "3D 正射投影カメラ"
+    },
+    {
+      "prefab": "Pages/Inspector/VolumetricDescription",
+      "iconTexture": "Icons/Inspector.Volumetric",
+      "iconSprite": "Inspector.Volumetric",
+      "text": "Volumetric",
+      "textJapanese": "3D 3D文字の描画",
+      "showVolumetric": true
+    }
+  ]
+}

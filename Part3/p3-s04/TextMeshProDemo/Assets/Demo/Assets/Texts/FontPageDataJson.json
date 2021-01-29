@@ -1,0 +1,22 @@
+﻿{
+  "data": [
+    {
+      "prefab": "Pages/Font/ToromanPage"
+    },
+    {
+      "prefab": "Pages/Font/MemoirPage"
+    },
+    {
+      "prefab": "Pages/Font/GreatVibesPage"
+    },
+    {
+      "prefab": "Pages/Font/MaboroshiPage"
+    },
+    {
+      "prefab": "Pages/Font/MagicRingPage"
+    },
+    {
+      "prefab": "Pages/Font/HonobonoPopPage"
+    }
+  ]
+}

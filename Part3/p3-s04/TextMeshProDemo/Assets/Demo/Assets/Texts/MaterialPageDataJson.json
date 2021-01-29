@@ -1,0 +1,67 @@
+﻿{
+  "data": [
+    {
+      "prefab": "Pages/Material/FaceDescription",
+      "iconTexture": "Icons/Inspector.Face",
+      "iconSprite": "Inspector.Face",
+      "text": "Face",
+      "textJapanese": "全体の外観"
+    },
+    {
+      "prefab": "Pages/Material/OutlineDescription",
+      "iconTexture": "Icons/Inspector.Outline",
+      "iconSprite": "Inspector.Outline",
+      "text": "Outline",
+      "textJapanese": "アウトライン"
+    },
+    {
+      "prefab": "Pages/Material/UnderlayDescription",
+      "iconTexture": "Icons/Inspector.Underlay",
+      "iconSprite": "Inspector.Underlay",
+      "text": "Underlay",
+      "textJapanese": "アンダーレイ"
+    },
+    {
+      "prefab": "Pages/Material/BevelDescription",
+      "iconTexture": "Icons/Inspector.Bevel",
+      "iconSprite": "Inspector.Bevel",
+      "text": "Bevel",
+      "textJapanese": "傾斜面"
+    },
+    {
+      "prefab": "Pages/Material/LightingDescription",
+      "iconTexture": "Icons/Inspector.Lighting",
+      "iconSprite": "Inspector.Lighting",
+      "text": "Lighting",
+      "textJapanese": "ライティング"
+    },
+    {
+      "prefab": "Pages/Material/BumpMapDescription",
+      "iconTexture": "Icons/Inspector.BumpMap",
+      "iconSprite": "Inspector.BumpMap",
+      "text": "BumpMap",
+      "textJapanese": "バンプマッピング"
+    },
+    {
+      "prefab": "Pages/Material/EnvironmentMapDescription",
+      "iconTexture": "Icons/Inspector.EnvironmentMap",
+      "iconSprite": "Inspector.EnvironmentMap",
+      "text": "EnvironmentMap",
+      "textJapanese": "環境マッピング"
+    },
+    {
+      "prefab": "Pages/Material/GlowDescription",
+      "iconTexture": "Icons/Inspector.Glow",
+      "iconSprite": "Inspector.Glow",
+      "text": "Glow",
+      "textJapanese": "グロー（発光）"
+    },
+    {
+      "prefab": "Pages/Material/DebugDescription",
+      "iconTexture": "Icons/Inspector.Debug",
+      "iconSprite": "Inspector.Debug",
+      "text": "Debug",
+      "textJapanese": "デバッグ"
+    }
+  ]
+}

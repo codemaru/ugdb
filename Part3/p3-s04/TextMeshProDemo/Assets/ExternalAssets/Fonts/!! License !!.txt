@@ -1,0 +1,36 @@
+
+　◇Font
+　　●Google Fons 様 『Noto Sans JP』
+　　SIL Open Font License
+　　- NotoSansJP-Regular.otf
+　　- https://fonts.google.com/specimen/Noto+Sans+JP
+
+　　●MODI工場 様 『めもわーる』
+    独自ライセンス
+　　- memoir-round.otf
+　　- http://modi.jpn.org/font_memoir.php
+
+　　●Nonty.net 様 『あめちゃんポップ』
+    独自ライセンス
+　　- HonobonoPop-Regular.otf
+　　- https://nonty.net/font/freefont/
+
+　　●フォントな 様 『幻ノにじみ明朝』
+    SIL Open Font License 1.1
+　　- MaboroshinoNijimiMincho.otf
+　　- http://www.fontna.com/blog/1912/
+
+　　●森の中の猫の小屋 様『アンニャントロマン』『Magic Ring』
+    独自ライセンス
+　　- toroman.ttf
+　　- MagicRink.ttf
+　　- http://inatsuka.com/font.php
+
+　　●FONT LIBRARY 様『GreatVibes』
+　　SIL Open Font License
+　　- GreatVibes-Regular.oft
+　　- https://fontlibrary.org/en/font/great-vibes
+
+
+SIL Open Font Licenseについて
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL

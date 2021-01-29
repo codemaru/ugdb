@@ -1,0 +1,11 @@
+
+◆Assets/ExternalAssets/Copo 以下のファイルについて
+Copo以下にあるファイルは全てMITライセンスになります。
+
+  Copyright (c) 2020 Copocopo　All rights reserved.
+  Released under the MIT license
+  https://opensource.org/licenses/mit-license.php
+
+
+ただし、Githubにて同名のファイルがあった場合は、Githubに記載されているライセンスに準拠します。
+  https://github.com/coposuke
